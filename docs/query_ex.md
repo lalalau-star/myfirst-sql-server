@@ -87,7 +87,7 @@ GO
 
 **SQL concepts:** Stored Procedures, Transactions (BEGIN TRANSACTION, COMMIT, ROLLBACK), Error Handling (TRY, CATCH, THROW), JSON Processing (OPENJSON), Temporary Tables, Sequences.
 
- ![Ex.4: DA_Complete Sales Transaction](https://github.com/lalalau-star/myfirst-sql-server/blob/main/docs/query_ex_imgs/Ex.4%3A%20DA_CompleteSalesTransaction.md)
+ [Ex.4: DA_Complete Sales Transaction](https://github.com/lalalau-star/myfirst-sql-server/blob/main/docs/query_ex_imgs/Ex.4%3A%20DA_CompleteSalesTransaction.md)
  
 **Expected output:** Generated transaction folio, confirmation message, and sale ID. 
 
