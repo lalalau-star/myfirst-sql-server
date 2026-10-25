@@ -79,7 +79,7 @@ GO
 
 **Expected output:** Products with prices above the average and their sales quantity ![Ex.3: Target Premium Products](https://github.com/lalalau-star/myfirst-sql-server/blob/main/docs/query_ex_imgs/Ex3_TargetPremiumProducts.png)
 
-**Business value:** Maximized profit margins, capital liberation (moving slow-turnover stock), enhanced brand positioning and Prestige, attracting high-value customers (LTV) & psychological anchoring and up-selling.
+**Business value:** Maximized profit margins, freed-up capital (moving slow-turnover stock), enhanced brand positioning and Prestige, attracting high-value customers (LTV) & psychological anchoring and upselling.
 
 ## 4. Database Automation. Complete Sales Transaction
 
